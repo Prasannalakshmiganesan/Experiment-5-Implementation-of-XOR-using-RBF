@@ -48,7 +48,7 @@ Step 7 : Test for the XOR patterns.
 
 
 ## PROGRAM:
-```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 
